@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LAB ASSIGNMENT 1</title>
+</head>
+<body>
+<u> <h3 style="text-align: center;"> VENKATA SIRISHA MADDALA </h3></u>
+<hr>
+Address: 4th lane Lakshmipuram,Guntur,Andhra Pradesh <br>
+Contact No: 9848664656<br>
+<img src="../../../../Working%20files/VENKATASIRISHAMADDALA%2019BCE7024/ASSIGNMENT-1/siri.JPG">
+<hr>
+<u><h3 style="text-align: left;">Qualification</h3></u>
+<table>
+    <tr>
+      <th>Degree</th>
+      <th>University/School</th>
+      <th>Year</th>
+      <th>Marks</th>
+    </tr>
+    <tr>
+      <td>10th grade</td>
+      <td>Loyola Public School</td>
+      <td>2017</td>
+      <td>539</td>
+    </tr>
+    <tr>
+      <td>Intermediate</td>
+      <td>Sri Chaitanya</td>
+      <td>2019</td>
+      <td>975</td>
+    </tr>
+  </table>
+  <hr>
+<u><h3 style="text-align: left;">Skillset</h3></u>
+<ol>
+    <li>Communicational skills</li>
+    <li>Computer skills</li>
+    <li>Time management skills</li>
+</ol>
+<hr>
+<u><h3 style="text-align: left;">Project</h3></u>
+<ul>
+    <li>Automatic Door Opening</li>
+    <li>Smart Gardening</li>
+</ul>
+<hr>
+<u><h3 style="text-align: left;">Personal Information</h3></u>
+<ul type="circle">
+    <li>Date of Birth:    29-10-2001</li>
+    <li>Languages Known:  Telugu,English,French</li>
+    <li>Hobbies:          Listening music</li>
+</ul>
+<hr>
+<u><h3 style="text-align: left;">Declaration</h3></u>
+<p style="text-align: right;">Signature
+<br>
+<br>
+Place</p>
+</body>
+</html>
